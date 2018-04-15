@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "877056306179",
+    "firebase_url": "https://ilit-293e9.firebaseio.com",
+    "project_id": "ilit-293e9",
+    "storage_bucket": "ilit-293e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877056306179:android:bb232801da4e33fe",
+        "android_client_info": {
+          "package_name": "singhal.com.iit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877056306179-8ovm2q14rfoehagb8p25p9jv5ropj6bn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "singhal.com.iit",
+            "certificate_hash": "88f37e0f4ac406e1a1bb5995f23800ec141cb504"
+          }
+        },
+        {
+          "client_id": "877056306179-nt1bhqmeu0g3ugoicqiiujclu7a19cip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Arc3nlWrWxiU7USYFeoUCWHzxuUCFZA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877056306179-nt1bhqmeu0g3ugoicqiiujclu7a19cip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
